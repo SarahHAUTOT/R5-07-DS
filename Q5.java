@@ -10,7 +10,7 @@ public class Q5
 		for (int i=0; i<nb; i++) 
 		{
 			for (int y = nb - i; y > 0; y--)
-				System.out.print("*");
+				System.out.print("X");
 
 			System.out.println();
 			}
